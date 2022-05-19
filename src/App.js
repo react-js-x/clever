@@ -3,8 +3,8 @@ import React from "react";
 
 
 const app = () => {
-cont Message = "helo";
-return( <h1> feito em react.j </h1>
+cont Message = 'helo';
+return( <h1> helo </h1>
 
 )
 
